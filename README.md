@@ -26,7 +26,6 @@ pnpm install
 *以小程序为例*
 
 ```sh
-cd taro-vue
 pnpm dev:weapp
 ```
 
